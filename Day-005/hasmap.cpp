@@ -1,6 +1,7 @@
 // Hashing:the definition of hashing in a naive way, it is nothing but the combination of the steps, pre-storing, and fetching.
 
 #include <bits/stdc++.h>
+#include<iostream>
 using namespace std;
 
 int main() {
